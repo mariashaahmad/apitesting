@@ -70,7 +70,7 @@ String placeName=
                     extract().
                     path("places[0].'place name'");
 
-    Assert.assertEquals(placeName, "Beverly Hills");
+   // Assert.assertEquals(placeName, "Beverly Hills");
 
 
 
